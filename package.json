@@ -1,0 +1,24 @@
+{
+  "name": "pos_app_deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syamsanur/Pos_App_Deploy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syamsanur/Pos_App_Deploy/issues"
+  },
+  "homepage": "https://github.com/syamsanur/Pos_App_Deploy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "server-static": "^2.0.5"
+  }
+}
